@@ -1,0 +1,9 @@
+'''
+Created on 23/8/2014
+
+@author: Alberto
+'''
+
+SCREEN_WIDTH = 640
+SCREEN_HEIGHT = 480
+SIZE = (SCREEN_WIDTH, SCREEN_HEIGHT)
